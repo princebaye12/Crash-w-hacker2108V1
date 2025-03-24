@@ -4,3 +4,6 @@ pkg install python
 pip install colorama
 pkg install termux-tools
 pkg install git
+git clone https://github.com/hacker2108-maker/Crash-w-hacker2108V1.git
+cd Crash-w-hacker2108V1
+python Crash-w-hacker2108V1.py
