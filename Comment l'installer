@@ -1,0 +1,6 @@
+pkg update
+pkg upgrade
+pkg install python 
+pip install colorama
+pkg install termux-tools
+pkg install git
